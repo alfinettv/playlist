@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV NASIONA" tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png",INDOSIAR
+http://iptvid.my.id/hmm/indosiar.m3u8
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png",SCTV
+http://iptvid.my.id/hmm/sctv.m3u8
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png",TRANS TV
+http://iptvid.my.id/hmm/transtv.m3u8
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png",TRANS 7
+http://iptvid.my.id/hmm/trans7.m3u8
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png",ANTV
+http://iptvid.my.id/hmm/antv.m3u8
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png",METRO TV
+http://iptvid.my.id/hmm/metrotv.m3u8
